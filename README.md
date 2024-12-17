@@ -1,7 +1,8 @@
 # :feet: Curriculum-Vitae
 
 ## Suki Suzu Suzuki
-![Foto 3x4](https://github.com/user-attachments/assets/590c6ac1-0b00-4920-8e89-bb5894a437a8)
+![Foto 3x4](https://github.com/user-attachments/assets/16ec4039-1082-4a98-9838-59a2f23cffea)
+
 
 
 ---
