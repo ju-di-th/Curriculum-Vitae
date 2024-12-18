@@ -10,7 +10,7 @@
 Contribuir com a limpeza de restos orgânicos no meio-ambiente.
 
 ---
-### :briefcase: Qualificação Pessoal
+### :briefcase: Experiência Profissional
 **1. Profissional em Limpeza**
 
 *Casa do Interior* - 2010 até o presente
@@ -26,5 +26,12 @@ Contribuir com a limpeza de restos orgânicos no meio-ambiente.
 *Cama, Sofá, Chão, Travesseiros e Superfícies Variadas* - Desde sempre
 - Habilidade excepcional em dormir até 16 horas por dia, em qualquer ambiente minimamente confortável.
 - Título de Mestre em Sono Profundo, com foco em relaxamento extremo.
+
+---
+### :mortar_board: Formação
+- **Curso Intesivo de Latidos Ultrassônicos**
+ Colégio do Bolt | 2013
+- **Mestrado em Comportamento Canino**
+ Universidade da Coitadolândia | em andamento
 
 ---
