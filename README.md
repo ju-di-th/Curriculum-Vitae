@@ -1,6 +1,6 @@
 # :feet: Curriculum-Vitae
 
-![Foto 3x4](https://github.com/user-attachments/assets/16ec4039-1082-4a98-9838-59a2f23cffea) | :pushpin: Suki Suzu Suzuki 
+![Foto 3x4](https://github.com/user-attachments/assets/16ec4039-1082-4a98-9838-59a2f23cffea) | :round_pushpin: Suki Suzu Suzuki                                              
 :telephone_receiver: (16) 17181-920  
 :envelope: suki@kyoshi.com                                                                                               
 **Linkedin:** [linkedin.com/in/suko](#) |
