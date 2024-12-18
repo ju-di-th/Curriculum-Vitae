@@ -14,12 +14,12 @@ Contribuir com a limpeza de restos orgânicos no meio-ambiente.
 **1. Profissional em Limpeza**
 
 *Casa do Interior* - 2010 até o presente
-- Especialista em vigilância e coleta de resíduos descartados incorretamente, com destinação final altamente eficiente: a própria barriga.
+Especialista em vigilância e coleta de resíduos descartados incorretamente, com destinação final altamente eficiente: a própria barriga.
 
 **2. Porteiro**
 
 *Casa Longe da Capital* - 2014 até o presente
-- Responsável por anunciar qualquer movimentação suspeita nas proximidades do recinto, utilizando latidos de alta potência com alcance de até 10 km para dissuadir intrusos.
+Responsável por anunciar qualquer movimentação suspeita nas proximidades do recinto, utilizando latidos de alta potência com alcance de até 10 km para dissuadir intrusos.
 
 **3. Especialista em Soneca**
 
@@ -30,8 +30,10 @@ Contribuir com a limpeza de restos orgânicos no meio-ambiente.
 ---
 ### :mortar_board: Formação
 - **Curso Intesivo de Latidos Ultrassônicos**
+
  Colégio do Bolt | 2013
 - **Mestrado em Comportamento Canino**
+
  Universidade da Coitadolândia | em andamento
 
 ---
