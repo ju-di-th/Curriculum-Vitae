@@ -46,7 +46,7 @@ Contribuir com a limpeza de restos orgânicos no meio-ambiente.
 - Possui um carisma tão esquisito que, inexplicavelmente, acaba sendo fofa.
 
 ---
-### :suspect: Referências
+### :kiss: Referências
 - **Juliana C. Teixeira**                                                                                                       
  Assistente Pessoal da Srta. Suki                                                                                                 
  Contato: disponível somente sob acordo da CIA.
