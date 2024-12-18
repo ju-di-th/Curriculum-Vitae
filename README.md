@@ -1,9 +1,9 @@
 # :feet: Curriculum-Vitae
 
-| ![Foto 3x4](https://github.com/user-attachments/assets/16ec4039-1082-4a98-9838-59a2f23cffea) | **Nome:** Suki Suzu Suzuki  
+![Foto 3x4](https://github.com/user-attachments/assets/16ec4039-1082-4a98-9838-59a2f23cffea) | **Nome:** Suki Suzu Suzuki  
 **Contato:** (11) 99999-9999  
 **E-mail:** amigo@exemplo.com |
-|---------------------------------------------------------|--------------------------------------------------|
+
 
 ---
 ### :fork_and_knife: Objetivo
