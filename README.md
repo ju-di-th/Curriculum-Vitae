@@ -47,6 +47,6 @@ Contribuir com a limpeza de restos orgânicos no meio-ambiente.
 
 ---
 ### :ok_woman: Referências
-- **Juliana C. Teixeira**
-  Assistente Pessoal da Srta. Suki
-  Contato: disponível sob acordo da CIA.
+- **Juliana C. Teixeira**                                                                                                       
+ Assistente Pessoal da Srta. Suki                                                                                                 
+ Contato: disponível sob acordo da CIA.
