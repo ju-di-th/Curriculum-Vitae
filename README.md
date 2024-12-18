@@ -1,7 +1,7 @@
 # :feet: Curriculum-Vitae
 
 ![Foto 3x4](https://github.com/user-attachments/assets/16ec4039-1082-4a98-9838-59a2f23cffea) | **Nome:** Suki Suzu Suzuki  
-**Contato:** (au) auaua-auau  
+**Contato:** (16) 17181-920  
 **E-mail:** suki@kyoshi.com                                                                                                  
 **Linkedin:** [linkedin.com/in/suko](#) |
 
@@ -40,10 +40,13 @@ Contribuir com a limpeza de restos orgânicos no meio-ambiente.
 
 --- 
 ### :pushpin: Habilidades
-- :feet: Capacidade comprovada de obter tudo o que deseja, exatamente no momento desejado.
-- :feet: Especialista em despertar humanos nos horários estratégicos de almoço, café e jantar.
-- :feet: Talento inigualável em transformar qualquer item ou espaço ao redor em propriedade pessoal.
-- :feet: Possui um carisma tão esquisito que, inexplicavelmente, acaba sendo fofa.
+- Capacidade comprovada de obter tudo o que deseja, exatamente no momento desejado.
+- Especialista em despertar humanos nos horários estratégicos de almoço, café e jantar.
+- Talento inigualável em transformar qualquer item ou espaço ao redor em propriedade pessoal.
+- Possui um carisma tão esquisito que, inexplicavelmente, acaba sendo fofa.
 
 ---
-### Referências
+### :ok_woman: Referências
+- **Juliana C. Teixeira**
+  Assistente Pessoal da Srta. Suki
+  Contato: disponível sob acordo da CIA.
